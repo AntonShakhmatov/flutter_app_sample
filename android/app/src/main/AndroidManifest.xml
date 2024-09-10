@@ -38,7 +38,7 @@
         <!--            android:value="${MAPS_API_KEY}"/>-->
 <!--            tools:ignore="WrongManifestParent" />-->
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBXafrUkRGPFigHXXaTpCrz-XEAV84lX-o"/>
+            android:value=""/>
     </application>
     <!-- Required to query activities that can process text, see:
          https://developer.android.com/training/package-visibility and
